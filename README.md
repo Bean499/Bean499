@@ -1,5 +1,5 @@
-# Hi, I’m @Bean499
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fightersgeneration.com%2Fcharacters%2Ffaust-huh.gif&f=1&nofb=1" align="right">
+# Hi, I’m @Bean499!
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fightersgeneration.com%2Fcharacters%2Ffaust-huh.gif&f=1&nofb=1" align="left">
 <ul>
 <li>👀 I’m interested in computers, maths and baking</li>
 <li>🎮 I like Guilty Gear, Fire Emblem, and Terraria</li>
