@@ -6,6 +6,7 @@
   <li>🎮 I like Guilty Gear, Fire Emblem, and Terraria</li>
   <li>🌱 I’m currently coding chess for my A Level computer science coursework</li>
 </ul>
+<br>
 <img src="https://github.com/Bean499/profile-stats/blob/master/generated/languages.svg">
 <!---
 Bean499/Bean499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
