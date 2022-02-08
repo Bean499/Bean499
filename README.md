@@ -2,9 +2,9 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fightersgeneration.com%2Fcharacters%2Ffaust-huh.gif&f=1&nofb=1" align="right">
 <ul>
   <li>🧑‍🎓 I'm a 17 year old British computer science student</li>
-  <li>👀 I’m interested in computers, maths and baking</li>
+  <li>👀 My interests include computers, maths and baking</li>
   <li>🎮 I like Guilty Gear, Fire Emblem, and Terraria</li>
-  <li>🌱 I’m currently coding chess for my A Level computer science coursework</li>
+  <li>🌱 Currently coding chess for my A Level computer science coursework</li>
 </ul>
 <br>
 <img src="https://github.com/Bean499/profile-stats/blob/master/generated/languages.svg">
