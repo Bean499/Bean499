@@ -7,7 +7,7 @@
   <li>🌱 I’m currently coding chess for my A Level computer science coursework</li>
 </ul>
 <br></br>
-<img src="https://github.com/Bean499/github-stats/blob/master/generated/languages.svg">
+<img src="https://raw.githubusercontent.com/Bean499/profile-stats/5d138d0721cd5527976323a1664705916a75c5fe/generated/languages.svg?token=AVAT5J7CVIBBZHW4OX6TPRLCAKQKI">
 <!---
 Bean499/Bean499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
