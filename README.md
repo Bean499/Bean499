@@ -1,5 +1,5 @@
 # Hi, I’m @Bean499!
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fightersgeneration.com%2Fcharacters%2Ffaust-huh.gif&f=1&nofb=1" align="right">
+<img src="https://www.fightersgeneration.com/characters/faust-huh.gif" align="right">
 <ul>
   <li>🧑‍🎓 I'm a 17 year old British computer science student</li>
   <li>👀 My interests include computers, maths and baking</li>
