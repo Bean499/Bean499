@@ -1,10 +1,11 @@
 # Hi, I’m @Bean499!
-<img src="https://github.com/Bean499/startpage/blob/master/art/cat.gif" width=40% height=40% align="right">
+<!-- <img src="https://github.com/Bean499/startpage/blob/master/art/cat.gif" width=40% height=40% align="right"> -->
 <ul>
-  <li>🧑‍🎓 I'm a 17 year old British computer science student</li>
-  <!-- <li>👀 My interests include computers, maths and baking</li>
-  <li>🎮 I like Guilty Gear, Fire Emblem, and Terraria</li> -->
-  <li>🌱 Currently coding chess for my A Level computer science coursework</li>
+  <li>I'm an 18 year old British computer science student</li>
+  <!-- <li>My interests include computers, maths and baking</li>
+  <li>I like Guilty Gear, Fire Emblem, and Terraria</li> -->
+  <li>Currently doing A Level exams</li>
+  <li>I plan to study Mathematics & Comptuer Science at university</li>
 </ul>
 <br>
 <!-- <img src="https://github.com/Bean499/profile-stats/blob/master/generated/languages.svg"> -->
