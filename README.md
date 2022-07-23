@@ -8,8 +8,9 @@
 
 ```js
 // Stuff I use!
-class MyStuff extends Me {
-    const Stuff = {
+class Bean extends Person {
+    const details = {
+        "Pronouns": "They" | "Them",
         "Languages": [ "Python", "JS", "Rust (learning!)" ],
         "Platform": new Linux(distro: "Arch"),
         "Editor": "nvim",
@@ -18,7 +19,7 @@ class MyStuff extends Me {
 }
 ```
 
-<p style="font-style:italics;"><center>"Let's change, well, everything!"</center></p>
+<
 <!---
 Bean499/Bean499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
