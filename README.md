@@ -6,7 +6,7 @@
   <li>🧑‍🎓 I plan to study Mathematics & Comptuer Science at university</li>
 </ul> --->
 
-<div style="width: 50%;">
+<div style="width: 100px;">
 
 ```js
 // About me and the things I use
