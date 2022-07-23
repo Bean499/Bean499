@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Bean!</h1>
-<img style="margin: 100px;" height=323 width=222 align="right" src="https://cdn.discordapp.com/attachments/468094981567938560/1000501051901886585/umbrella.gif" >
+<img height=484 width=333 align="right" src="https://cdn.discordapp.com/attachments/468094981567938560/1000501051901886585/umbrella.gif">
 <!--- <ul>
   <li>✨ I'm an 18 year old non-binary British computer scienctist and mathematician</li>
   <li>🐧 Linux and open-source enthusiast</li>
@@ -23,7 +23,7 @@ class Bean extends Person {
 
 If you're really interested in the tools I use, go check out <a href="https://github.com/bean499/dotfiles">my dotfiles repository</a>!
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jsmith676&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jsmith676&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jsmith676&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jsmith676&redirect=true)
 
 <!---
 Bean499/Bean499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
