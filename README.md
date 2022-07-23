@@ -7,14 +7,14 @@
 </ul> --->
 
 ```js
-// More about me and the things I use
+// About me and the things I use
 class Bean extends Person {
     const details = {
         "Pronouns": "They" | "Them",
         "Age": 18,
         "Nationality": "British",
         "Languages": [ "Python", "JS", "Rust (learning!)" ],
-        "Platform": new Linux(distro: "Arch"),
+        "Platform": new Linux(distro: "Void"),
         "Editor": "nvim",
         "Misc": [ "dwm", "fish shell", "git", ],
     }
