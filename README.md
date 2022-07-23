@@ -5,6 +5,7 @@
   <li>🐧 Linux and open-source enthusiast</li>
   <li>🧑‍🎓 I plan to study Mathematics & Comptuer Science at university</li>
 </ul>
+
 ```js
 // Stuff I use!
 class MyStuff extends Me {
@@ -16,6 +17,7 @@ class MyStuff extends Me {
     }
 }
 ```
+
 <br>
 <!---
 Bean499/Bean499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
