@@ -21,6 +21,8 @@ class Bean extends Person {
 }
 ```
 
+If you're really interested in the tools I use, go check out <a href="https://github.com/bean499/dotfiles">my dotfiles repository</a>!
+
 <!---
 Bean499/Bean499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
