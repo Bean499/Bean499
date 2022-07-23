@@ -7,6 +7,7 @@
 </ul>
 
 <div width=50%>
+
 ```js
 // Stuff I use!
 class MyStuff extends Me {
@@ -18,6 +19,7 @@ class MyStuff extends Me {
     }
 }
 ```
+
 </div>
 
 <br>
