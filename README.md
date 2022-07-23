@@ -5,6 +5,17 @@
   <li>🐧 Linux and open-source enthusiast</li>
   <li>🧑‍🎓 I plan to study Mathematics & Comptuer Science at university</li>
 </ul>
+```js
+// Stuff I use!
+class MyStuff extends Me {
+    const Stuff = {
+        "Languages": [ "Python", "JS", "Rust (learning!)" ],
+        "Platform": new Linux(distro: "Arch"),
+        "Editor": "nvim",
+        "Misc": [ "dwm", "fish shell", "git", ],
+    }
+}
+```
 <br>
 <!---
 Bean499/Bean499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
