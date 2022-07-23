@@ -6,8 +6,6 @@
   <li>🧑‍🎓 I plan to study Mathematics & Comptuer Science at university</li>
 </ul>
 
-<div style="width:50%;">
-
 ```js
 // Stuff I use!
 class MyStuff extends Me {
@@ -19,10 +17,8 @@ class MyStuff extends Me {
     }
 }
 ```
-
-</div>
-
-<br>
+  
+<center>*"Let's change, well, everything!"*</center>
 <!---
 Bean499/Bean499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
