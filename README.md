@@ -7,7 +7,7 @@
 </ul>
 
 ```js
-// More about me and what things I use
+// More about me and the things I use
 class Bean extends Person {
     const details = {
         "Pronouns": "They" | "Them",
