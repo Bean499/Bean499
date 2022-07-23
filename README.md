@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Bean!</h1>
-<img height=388 width=266 align="right" src="https://cdn.discordapp.com/attachments/468094981567938560/1000501051901886585/umbrella.gif">
+<img height=436 width=300 align="right" src="https://cdn.discordapp.com/attachments/468094981567938560/1000501051901886585/umbrella.gif">
 <!--- <ul>
   <li>✨ I'm an 18 year old non-binary British computer scienctist and mathematician</li>
   <li>🐧 Linux and open-source enthusiast</li>
