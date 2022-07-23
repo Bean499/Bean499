@@ -5,7 +5,7 @@
   <li>🧑‍🎓 I plan to study Mathematics & Comptuer Science at university</li>
 </ul>
 <br>
-<img src="https://cdn.discordapp.com/attachments/468094981567938560/1000501051901886585/umbrella.gif">
+<img align="right" src="https://cdn.discordapp.com/attachments/468094981567938560/1000501051901886585/umbrella.gif">
 <!---
 Bean499/Bean499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
