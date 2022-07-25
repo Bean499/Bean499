@@ -19,7 +19,7 @@ class Bean extends Person {
         "Editor": "nvim",
         "Misc": [ "dwm", "fish shell", "git" ],
     }
-}z
+}
 ```
 
 <div align="center">
