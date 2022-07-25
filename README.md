@@ -13,12 +13,13 @@ class Bean extends Person {
         "Pronouns": "They" | "Them",
         "Age": 18,
         "Nationality": "British",
+        "Interests": [ "Games", "Baking", "Mathematics", "Computers" ]
         "Languages": [ "Python", "JS", "Rust (learning!)" ],
         "Platform": new Linux(distro: "Void"),
         "Editor": "nvim",
-        "Misc": [ "dwm", "fish shell", "git", ],
+        "Misc": [ "dwm", "fish shell", "git" ],
     }
-}
+}z
 ```
 
 <div align="center">
