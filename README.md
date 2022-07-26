@@ -12,8 +12,6 @@ class Bean extends Person {
     const details = {
         "Pronouns": "They" | "Them",
         "Age": 18,
-        "Nationality": "British",
-        "Interests": [ "Games", "Baking", "Mathematics", "Computers" ]
         "Languages": [ "Python", "JS", "Rust (learning!)" ],
         "Platform": new Linux(distro: "Void"),
         "Editor": "nvim",
