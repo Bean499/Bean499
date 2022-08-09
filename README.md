@@ -9,8 +9,7 @@
 ```js
 // About me and the things I use
 class Bean extends Person {
-    const details = {
-        "Pronouns": "They" | "Them",
+    const details = [
         "Age": 18,
         "Languages": [ "Python", "JS", "Rust (learning!)" ],
         "Platform": new Linux(distro: "Void"),
